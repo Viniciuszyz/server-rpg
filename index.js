@@ -19,5 +19,6 @@ function soma(num1, num2) {
 
 //oi
 
+// comentario oi2
 
 singUp(user)
