@@ -27,6 +27,7 @@
       //"@api/": ["src/api/"]
     //}
   },
-  //"include": ["src/*/.ts"],
+  "include": ["src/**/*.ts", "auth.d.ts"],
   "exclude": ["node_modules"]
 }
+
