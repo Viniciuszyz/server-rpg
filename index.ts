@@ -1,5 +1,5 @@
-import Fastify, { FastifyReply, FastifyRequest } from "fastify"
-import { signIn, signUp } from "./src/routes/auth"
+import Fastify from "fastify"
+import { signIn, signUp } from "./src/routes/auth.ts"
 const app = Fastify()
 
 // Declare a route
